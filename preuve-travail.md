@@ -34,3 +34,15 @@ Livrable 1.9 : Authentification SSH avec Git
 SSH Connection :
 
 ![Screenshot from 2023-01-02 14-09-06](https://user-images.githubusercontent.com/93312637/210235752-238c9da1-5605-4c9f-9941-736cd24ac532.png)
+
+
+Livrable 2.2 : Mise à jour avec Git en équipe
+
+C'est quoi un Conflit ? :
+Un conflit survient lorsque deux branches distinctes ont modifié la même ligne dans un fichier, ou lorsqu'un fichier a été supprimé dans une branche, mais modifié dans l'autre.
+
+Comment le résoudre ? :
+Pour résoudre le problème, il nous suffit de regarder les lignes qui ne sont pas bonne pour en modifier ou supprimer.
+
+![site](https://user-images.githubusercontent.com/93312637/210251317-e5502f62-3adf-4b7f-ba78-2ed925b5d6f7.png)
+
